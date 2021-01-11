@@ -1,3 +1,5 @@
+[![tests](https://github.com/zikwall/use-localforage/workflows/tests/badge.svg)](https://github.com/zikwall/use-localforage/actions)
+
 <div align="center">
   <h1>use localForage</h1>
   <h5>localForage is a fast and simple storage library for JavaScript</h5>
