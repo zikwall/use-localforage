@@ -1,5 +1,7 @@
+[![version](https://img.shields.io/npm/v/@zikwall/use-localforage)](https://www.npmjs.com/package/@zikwall/use-localforage)
 [![tests](https://github.com/zikwall/use-localforage/workflows/tests/badge.svg)](https://github.com/zikwall/use-localforage/actions)
 [![downloads](https://img.shields.io/npm/dw/@zikwall/use-localforage)](https://www.npmjs.com/package/@zikwall/use-localforage)
+
 <div align="center">
   <h1>use localForage</h1>
   <h5>localForage is a fast and simple storage library for JavaScript</h5>
